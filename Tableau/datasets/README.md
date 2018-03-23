@@ -1,4 +1,2 @@
-A place for publicly available Tableau Datasets and Workbooks (used in Tableau workshop)
-----------------------------------------------------------------------------------------
-1) using_R_within_tableau.twbx is a packaged Exercise workbook available from Tableau Training Site.
-Direct Link is https://www.tableau.com/sites/default/files/using_r_within_tableau.twbx
+These datasets are Tableau Public resources.
+downloaded from https://public.tableau.com/en-us/s/resources?qt-overview_resources=1#qt-overview_resources
