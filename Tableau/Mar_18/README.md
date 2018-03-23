@@ -6,4 +6,4 @@ Data Visualization using Tableau.
 Basics of BI, Data Visualization. Tableau Features and integration with R.
 Discussed about Tableau Public and Tableau Desktop.
 
-Initial version
+Event will happen in PSG College of Technology, Coimbatore.
